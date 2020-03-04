@@ -1,0 +1,4 @@
+mydb.cmkwiytbbvat.eu-central-1.rds.amazonaws.com
+3306
+admin_amazon
+Amazon_2019

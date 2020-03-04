@@ -1,0 +1,18 @@
+<item>
+<itemid>202462926407</itemid>
+<title>SanDisk Micro SD Card 8GB 16GB 32GB Memory Class 4 Android Nintendo Cell Phone</title>
+<globalid>EBAY-US</globalid>
+<primarycategory><categoryid>96991</categoryid><categoryname>Memory Cards</categoryname></primarycategory>
+<galleryurl>https://thumbs1.ebaystatic.com/pict/04040_0.jpg</galleryurl>
+<viewitemurl>https://www.ebay.com/itm/SanDisk-Micro-SD-Card-8GB-16GB-32GB-Memory-Class-4-Android-Nintendo-Cell-Phone-/202462926407?var=0</viewitemurl>
+<autopay>false</autopay>
+<postalcode>330**</postalcode>
+<location>Homestead,FL,USA</location>
+<country>US</country>
+<shippinginfo>
+<shippingservicecost currencyid="USD">0.0</shippingservicecost>
+<shippingtype>Free</shippingtype>
+<shiptolocations>Worldwide</shiptolocations>
+<expeditedshipping>true</expeditedshipping>
+<onedayshippingavailable>false</onedayshippingavailable>
+<handlingtime>0</handlingtime></shippinginfo><sellingstatus><currentprice currencyid="USD">5.99</currentprice><convertedcurrentprice currencyid="USD">5.99</convertedcurrentprice><sellingstate>Active</sellingstate><timeleft>P30DT16H14M33S</timeleft></sellingstatus><listinginfo><bestofferenabled>false</bestofferenabled><buyitnowavailable>false</buyitnowavailable><starttime>2018-10-08T13:05:30.000Z</starttime><endtime>2020-01-08T13:05:30.000Z</endtime><listingtype>FixedPrice</listingtype><gift>false</gift><watchcount>1232</watchcount></listinginfo><returnsaccepted>true</returnsaccepted><condition><conditionid>1000</conditionid><conditiondisplayname>New</conditiondisplayname></condition><ismultivariationlisting>true</ismultivariationlisting><topratedlisting>true</topratedlisting></item>,
